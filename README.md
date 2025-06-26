@@ -6,9 +6,7 @@
 
 ```javascript
 const aboutMe = {
-  code: ['JavaScript', 'TypeScript', 'HTML', 'CSS', 'Python', 'Java', 'Kotlin', 'Go (in progress)', 'Rust (in progress)'],
-  tools: ['React', 'React Native', 'Node', 'Express', 'Tailwind CSS', 'PostgreSQL', 'Git', 'Docker'],
-  architecture: ['Microservices', 'Event-driven', 'Modular monolithic', 'Serverless', 'RESTful APIs', 'MVC (Model-View-Controller)', 'Domain-Driven Design (DDD)'],
+  current_projects: ['SafeHike', 'Vere', 'FreeMarkable', 'Foop'],
   challenge: "To become a solopreneur..."
 }
 ```
